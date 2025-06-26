@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075020390748",
+    "project_id": "lelekart-1d9b5",
+    "storage_bucket": "lelekart-1d9b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075020390748:android:0a0d5d69fb34b2a0d7a199",
+        "android_client_info": {
+          "package_name": "com.example.lelekart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhD28lcqaGb_gxSWCpKl-zXk9hfZUQ_Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
