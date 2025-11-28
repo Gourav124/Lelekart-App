@@ -1,0 +1,1 @@
+This is a assessment project given by the comapny founder. They provided me the base api url and i fetch the data from database and shows on the screen. In this project i make navigation, api call and also design the ui for the app. 
